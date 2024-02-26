@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/NetflixUI/static/css/main.35d480f9.css",
+    "main.js": "/NetflixUI/static/js/main.de52a1e6.js",
+    "static/media/header-image.png": "/NetflixUI/static/media/header-image.d70b0bbb20753fb4bbe5.png",
+    "static/media/feature-4.png": "/NetflixUI/static/media/feature-4.6b46559c6756e1a68d53.png",
+    "static/media/feature-1.png": "/NetflixUI/static/media/feature-1.e05894e3de9408682a64.png",
+    "static/media/feature-3.png": "/NetflixUI/static/media/feature-3.640333595d8077eb00e0.png",
+    "static/media/feature-2.png": "/NetflixUI/static/media/feature-2.684241600d1ca6dd5d30.png",
+    "static/media/logo.png": "/NetflixUI/static/media/logo.6521ee8dd0b9223ba3b5.png",
+    "index.html": "/NetflixUI/index.html",
+    "main.35d480f9.css.map": "/NetflixUI/static/css/main.35d480f9.css.map",
+    "main.de52a1e6.js.map": "/NetflixUI/static/js/main.de52a1e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35d480f9.css",
+    "static/js/main.de52a1e6.js"
+  ]
+}
